@@ -48,5 +48,11 @@ docker-compose up
 
 ![访问YAPI](./snapshots/yapi-run.png)
 
+## 浏览器插件 cross-request (接口测试服务)
+1. 解压 `cross-request-3.1.zip` 
+2. 打开 `chrome://extensions`
+3. 开启 `开发者模式`
+4. 点击 `加载已解压的扩展程序`
+
 ## 许可
 Derek Li © MIT
